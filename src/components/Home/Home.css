@@ -1,0 +1,20 @@
+.btn-hero{
+    background-color: #ef4565;
+    padding: 10px 25px;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+}
+.hero-text{
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 1.6em;
+    color: #094067;
+}
+
+@media (max-width:600px) {
+    .hero-text{
+        font-size: 45px;
+       margin: 0;
+    }
+}
